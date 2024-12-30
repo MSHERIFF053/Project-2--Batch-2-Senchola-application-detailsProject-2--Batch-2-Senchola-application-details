@@ -1,0 +1,18 @@
+we were provided with batch of intenship students info regarding intenship application
+
+
+after analysing the data we can find that,
+
+there where 373 applicants and 282 were male and 91 are female 
+this difference may be due to family not giving enough freedom to females
+
+most of the applicants were from engineering background
+
+and most were 2023 passout graduated 
+
+and most have applied for frountene webdevolpment intenships
+
+among candidates most were from district of chennai and nearby reagions (from map plot)
+
+
+done - by Ahamed Sheriff
